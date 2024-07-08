@@ -1,1 +1,1 @@
-# 100xDevs Cohort 2.O
+# 100xDevs Cohort 2.0
